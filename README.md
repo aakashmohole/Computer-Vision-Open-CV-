@@ -22,7 +22,7 @@ numpy
 
 math
 
-pyauto
+pyautogui
 
 Firstly, install all the basic Dependencies using the below command.
 
